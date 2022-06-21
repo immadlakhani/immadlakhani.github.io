@@ -1,7 +1,7 @@
 body{
     margin:0;
     font-family: Arial;
-    background: url(..img/bk.jpg)
+    background-image: url(../img/bk.jpg);
     
   
   }
