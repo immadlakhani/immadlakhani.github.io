@@ -1,0 +1,61 @@
+body{
+    margin:0;
+    font-family: Arial;
+    background: url(..img/bk.jpg)
+    
+  
+  }
+  
+  nav{
+    border: 0px solid red;
+    background-color: ;
+    width:;
+    
+  }
+  
+  nav ul{
+    margn:0;
+    padding:0;
+    list-style-type: none;
+    border: 0px solid blue;
+    text-align: center;
+   
+  }
+  
+  nav li{
+   
+    border: 3px solid maroon;
+    padding: rem;
+    width: 8rem;
+    margin-bottom: 1rem;
+    background-color:black ;
+    text-align: center;
+    font-size: 1.2rem ;
+    display: inline-block;
+    
+    
+    
+    
+    
+  
+  }
+  
+  nav a{
+    
+    color: white;
+    text-decoration:none;
+    border: 0 px dashed ;
+    display: block;
+    padding: 0.5rem;
+    transition: border-radius 2s;
+  }
+  
+  nav a:hover{
+    border-radius: 100px;
+    color: black;
+    background-color: white;
+  }
+  
+  nav li:hover{
+    border-radius: 100px; 
+  }
