@@ -2,6 +2,7 @@ body{
     margin:0;
     font-family: Arial;
     background-image: url(../img/bk.jpg);
+    background-size: cover;
     
   
   }
